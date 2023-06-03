@@ -1,3 +1,5 @@
+# ref https://neo4j.com/docs/api/python-driver/current/
+
 from neo4j import GraphDatabase
 import pandas as pd
 
@@ -39,5 +41,3 @@ for i in range(0, len(data)):
         pass
 print(df)
 
-# # Print the DataFrame
-# print(df)

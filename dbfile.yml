@@ -1,0 +1,6 @@
+yelp:
+  Business: raw_data\yelp_academic_dataset_business.json
+  Checkin: raw_data\yelp_academic_dataset_checkin.json
+  Review: raw_data\yelp_academic_dataset_review.json
+  Tip: raw_data\yelp_academic_dataset_tip.json
+  User: raw_data\yelp_academic_dataset_user.json
